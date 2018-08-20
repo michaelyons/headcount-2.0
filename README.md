@@ -12,3 +12,29 @@ This application was built using the `create-react-app` boilerplate.
 * Create modular, reusable React components.
 * Use propTypes to validate props passed to each component.
 * Write meaningful, comprehensive unit and integration tests.
+
+## To Get Started
+
+run 
+```
+git clone https://github.com/michaelyons/headcount2.0.git 
+```
+
+run 
+```
+npm install
+```
+
+To start the app run
+```
+npm start
+```
+To run the testing suite
+```
+npm test
+```
+
+To run the linter
+```
+npm run eslint
+```
