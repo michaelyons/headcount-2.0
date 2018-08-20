@@ -16,25 +16,25 @@ This application was built using the `create-react-app` boilerplate.
 ## To Get Started
 
 run 
-```
+``
 git clone https://github.com/michaelyons/headcount2.0.git 
-```
+``
 
 run 
-```
+``
 npm install
-```
+``
 
 To start the app run
-```
+``
 npm start
-```
+``
 To run the testing suite
-```
+``
 npm test
-```
+``
 
 To run the linter
-```
+``
 npm run eslint
-```
+``
