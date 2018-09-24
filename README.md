@@ -6,6 +6,8 @@ The application displays educational stats from districts within Colorado by yea
 
 This application was built using the `create-react-app` boilerplate.   
 
+![weathrly sketch](./IMG_5434.jpeg)
+
 ## Project Goals
 
 * Separate application logic into small, testable functions.
