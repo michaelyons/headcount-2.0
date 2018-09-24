@@ -6,7 +6,7 @@ The application displays educational stats from districts within Colorado by yea
 
 This application was built using the `create-react-app` boilerplate.   
 
-![headcount sketch](headcount-2.0/Screen Shot 2018-09-24 at 11.39.34 AM.png)
+![headcount sketch](https://github.com/michaelyons/headcount-2.0/blob/master/Screen%20Shot%202018-09-24%20at%2011.39.34%20AM.png)
 
 ## Project Goals
 
